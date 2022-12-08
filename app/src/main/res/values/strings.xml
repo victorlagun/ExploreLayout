@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExploreLayout</string>
+    <string name="login">Login</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="appName">Best App</string>
+    <string name="result_button_text">Result</string>
+</resources>
